@@ -84,7 +84,3 @@ if (process.argv[2] === "movie-this"){
         }
     })
 }
-
-if (process.argv[2] === "do-what-it-says"){
-
-}
